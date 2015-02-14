@@ -1,0 +1,3 @@
+[submodule "src/isMobile"]
+	path = src/isMobile
+	url = git@github.com:kaimallea/isMobile.git
